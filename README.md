@@ -1,5 +1,5 @@
 - Hi, I’m Srishti Mohlay
-- I’m currently a computer science undergraduate student.
+- A Computer Science undergraduate student.
 - 📫 How to reach me : srishtimohlay223@gmail.com
 
 <!---
